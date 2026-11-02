@@ -1,2 +1,2 @@
-PASTE-YOUR-DEPLOYED-PAPER-URL-HERE
+
 https://github.com/Soumili-codes/flyrank-ml-internship/blob/main/Copy_of_capstone.ipynb
